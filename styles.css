@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: linear-gradient(135deg, #ff7eb3, #ff758c, #ff7eb3, #ffb199, #ff758c);
+    background: linear-gradient(135deg, #2d00f8, #5c43d8, #b67eff, #99faff, #75efff);
     color: white;
     text-align: center;
     overflow-x: hidden;
@@ -17,7 +17,7 @@ body {
 
 header {
     padding: 20px;
-    background: linear-gradient(90deg, #ff7eb3, #ff758c);
+    background: linear-gradient(90deg, #0015ff, #ff002b);
     box-shadow: 0px 5px 15px rgba(255, 117, 140, 0.5);
     position: relative;
     z-index: 2;
